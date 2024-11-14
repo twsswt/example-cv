@@ -1,6 +1,6 @@
 # Tim Storer CV
 
-![Profile picture](https://avatars.githubusercontent.com/u/2812935?v=4 | width=100)
+<img src="https://avatars.githubusercontent.com/u/2812935?v=4" width=100>
 
 A poorly motivated, terrible decision maker, with useless organisational skills.  Learns new concepts and technologies only very slowly and unable to follow the simplest instructions.  Seeking roles with minimal learning opportunities and potential to be side-lined in dead end career. 
 
